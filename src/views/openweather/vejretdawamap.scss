@@ -1,0 +1,11 @@
+.info_box {
+    border: 1px solid black;
+    color: white;
+    background: rgb(55,143,174);
+    background: linear-gradient(0deg, rgba(55,143,174,1) 5%, rgba(253,150,23,1) 100%);
+    border-radius: 8px;
+    min-height: 300px;
+    min-width: 300px;
+    max-width: 300px;
+    max-height: 300px;
+}

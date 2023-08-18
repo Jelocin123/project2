@@ -1,0 +1,33 @@
+h1 {
+  text-align: center;
+}
+
+
+
+.card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.card-img-top {
+  width: 100%;
+  height: auto;
+}
+
+.card-title {
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.card-text {
+  margin-bottom: 0;
+}
+
+.card-footer {
+  margin-top: auto;
+  padding-top: 1rem;
+  margin-bottom: 0;
+  color: gray;
+  font-size: 0.9rem;
+}
